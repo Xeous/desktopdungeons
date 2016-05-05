@@ -17,7 +17,7 @@ public class Board extends JPanel {
 	
 	public static final int WIDTH = 800;
 	public static final int HEIGHT = 600;
-	public static final int NUMBER_OF_CUBES = 300;
+	public static final int NUMBER_OF_CUBES = 100;
 	public static final int CUBE_PIXELS = HEIGHT/ NUMBER_OF_CUBES;
 	private static final long serialVersionUID = 1L;
 	private ArrayList<Wall> walls;
